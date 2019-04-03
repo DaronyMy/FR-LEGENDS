@@ -1,0 +1,21 @@
+{
+    "name": "fr-legends-hack/fr-legends-hack-mod-apk-get-unlimited-gold",
+    "description": "FR LEGENDS Hack Mod APK Get Unlimited Gold Cheats Generator IOS & Android",
+
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ClICK HERE to HACK FR LEGENDS",
+            "homepage": "http://cheat4games.com/generator/FR-LEGENDS/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+   
+    "minimum-stability": "dev"
+}
